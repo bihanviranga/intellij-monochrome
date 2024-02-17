@@ -1,4 +1,4 @@
-## Monochrome - an minimal theme for IntelliJ editors
+## Monochrome - a minimal theme for IntelliJ editors
 
 _Because syntax highlighting looks ugly_
 
