@@ -1,11 +1,10 @@
 {
   "name": "Monochrome",
-  "author": "YourCompany",
+  "author": "bihanviranga",
   "dark": true,
+  "editorScheme": "/theme/monochrome.xml",
   "colors": {
-    "primaryRed": "#821010"
   },
   "ui": {
-    "Button.background": "primaryRed"
   }
 }

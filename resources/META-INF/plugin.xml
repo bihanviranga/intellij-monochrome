@@ -10,7 +10,7 @@
     <category>UI</category>
 
     <!-- A displayed Vendor name or Organization ID displayed on the Plugins Page. -->
-    <vendor email="support@yourcompany.com" url="https://www.yourcompany.com">YourCompany</vendor>
+    <vendor email="bihanviranga" url="https://github.com/bihanviranga">bihanviranga</vendor>
 
     <idea-version since-build="222" until-build="232.*"/>
 
@@ -18,14 +18,13 @@
          Simple HTML elements (text formatting, paragraphs, and lists) can be added inside of <![CDATA[ ]]> tag.
          Guidelines: https://plugins.jetbrains.com/docs/marketplace/plugin-overview-page.html#plugin-description -->
     <description><![CDATA[
-    Enter short description for your theme here.<br>
-    <em>most HTML tags may be used</em>
+    This is a very minimal theme for IntelliJ editors. Contains black, grey, and white.
   ]]></description>
 
     <!-- Short summary of new features and bugfixes in the latest plugin version.
          Displayed on the Plugin Page and IDE Plugin Manager. Simple HTML elements can be included between <![CDATA[  ]]> tags. -->
     <change-notes><![CDATA[
-    Initial release of the theme.
+    First release.
   ]]></change-notes>
 
     <!-- Product and plugin compatibility requirements.
