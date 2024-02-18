@@ -1,30 +1,22 @@
 ## Monochrome - a minimal theme for IntelliJ editors
 
-_Because syntax highlighting looks ugly_
-
 This theme aims to make the editor have as few colors as possible while
 still being usable. Syntax highlighting uses black, grey, and white, (except
 for TODO comments).
 
-It is created for my personal use. As such, there is no easy way to install this
-yet. I highly encourage any fellow `:syntax off` people to fork/modify.
-
-> [!WARNING]
-> This theme is a work in progress. The editor colorscheme works but the UI
-> changes are not done at all.
+It is created for my personal use, with choices that make sense to me. So your mileage may vary. I highly encourage any fellow `:syntax off` people to fork/modify.
 
 <hr/>
 
-### Installing the colorscheme
+### Installing
 
-You can install the colorscheme manually:
+* Go to Settings -> Plugins.
+* Click the gear icon.
+* Select 'Install Plugin from Disk'.
+* Select the JAR file from this repo.
 
-* Rename the `monochrome.xml` to `monochrome.icls`.
-* In IntelliJ, go to Settings -> Editor -> Colorscheme.
-* Click the gear icon -> Import Scheme -> IntelliJ IDEA color scheme.
-* Select the `monochrome.icls` file.
+<hr/>
 
 Screenshot for reference (Java code):
 
 ![image](monochrome.png)
-
