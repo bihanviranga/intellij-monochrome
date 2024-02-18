@@ -6,5 +6,6 @@
   "colors": {
   },
   "ui": {
+    "Editor.background": "#222222"
   }
 }
